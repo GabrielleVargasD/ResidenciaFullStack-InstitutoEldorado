@@ -1,0 +1,1 @@
+Entregável: uma aplicação Java simples de gerenciamento de produtos, clientes ou pedidos utilizando POO. Deve possuir pelo menos 3 classes relacionadas; utilizar encapsulamento; aplicar pelo menos um exemplo de herança ou composição; o código deve possuir responsabilidades bem definidas.
