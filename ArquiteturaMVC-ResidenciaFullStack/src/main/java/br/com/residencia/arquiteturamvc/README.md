@@ -74,8 +74,6 @@ A entidade `Produto` é mapeada com JPA, e seu identificador é gerado automatic
 4. Execute a classe `ArquiteturaMvcResidenciaFullStackApplication`.
 5. Com a aplicação em execução, acesse `http://localhost:8080/produtos` ou utilize o Postman para testar os endpoints.
 
-**Importante:** não compartilhe senhas do banco de dados em repositórios públicos.
-
 ## Objetivo de aprendizagem
 
 O projeto foi desenvolvido para praticar os fundamentos do desenvolvimento backend com Spring Boot, incluindo organização em camadas, criação de APIs REST, operações CRUD e integração com banco de dados relacional.
